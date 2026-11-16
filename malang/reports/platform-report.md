@@ -1,7 +1,7 @@
 # Malang Indigenous Corporation: platform report
 ## E-commerce and online training platforms for 2027
 
-- **Prepared by:** SAAD / Surfolk team
+- **Prepared by:** Freedom Founders
 - **Date:** 16 November 2026
 - **Status:** DRAFT for discussion with Saretta and the Malang team
 

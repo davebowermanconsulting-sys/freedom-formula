@@ -1,6 +1,6 @@
 # Malang Indigenous Corporation: website & growth workstream
 
-Prepared by the SAAD / Surfolk team. The repo holds documentation and evidence only.
+Prepared by Freedom Founders. The repo holds documentation and evidence only.
 **A commit here does not change the Wix site.** Wix edits happen in the Wix Editor (Save + Preview only, never Publish, until the client approves).
 
 | Area | File | Status |

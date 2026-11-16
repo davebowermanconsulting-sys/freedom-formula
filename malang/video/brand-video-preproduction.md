@@ -2,7 +2,7 @@
 
 - **Client:** Malang Indigenous Corporation
 - **Featuring:** Saretta Fielding, founder and CEO of Malang
-- **Production:** SAAD / Surfolk team (scripting, filming, editing)
+- **Production:** Freedom Founders (scripting, filming, editing)
 - **Proposed shoot date:** **Monday 23 November 2026** (TO CONFIRM with Saretta)
 - **Location:** [TO CONFIRM: Malang base, Toronto NSW 2283, or Saretta's studio, plus one outdoor location on Country if appropriate]
 - **Status:** DRAFT for Saretta's review

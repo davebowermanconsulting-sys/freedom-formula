@@ -1,8 +1,8 @@
 # Malang Indigenous Corporation: scope variation to the initial website quote
 
-- **Prepared by:** SAAD / Surfolk team
+- **Prepared by:** Freedom Founders
 - **Date:** 16 November 2026
-- **Status:** DRAFT. Pricing to be completed by the SAAD/Surfolk team.
+- **Status:** DRAFT. Pricing to be completed by Freedom Founders.
 
 > **Missing input:** the original quote wasn't in the repo or found in Google Drive, so this document lists the **additional** work agreed at the latest SAAD meeting without restating the original. Please send the original quote (PDF or line items) and we'll merge them into one updated quote with a single total.
 >
