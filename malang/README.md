@@ -8,7 +8,7 @@ Prepared by Freedom Founders. The repo holds documentation and evidence only.
 | Event and Conference Experiences page spec | `pages/event-and-conference-experiences.md` | Draft for client review |
 | Consulting and Workshops page spec | `pages/consulting-and-workshops.md` | Draft for client review |
 | Site-wide desktop & mobile touch-up audit | `pages/site-touch-up-desktop-mobile-audit.md` | Partial (3 of 7 pages captured) |
-| Platform report: e-commerce + online training, competitors, SWOT | `reports/platform-report.md` | Draft |
+| Website research report (platforms, Skool, SWOT) | Delivered as a PDF download, not stored in this repo | Draft |
 | Expanded quote / scope variation | `quote/scope-variation.md` | Draft, pricing TBC |
 | Brand hero video: pre-production pack | `video/brand-video-preproduction.md` | Draft, shoot Mon 23 Nov 2026 TBC |
 | Change log | `change-log.md` | Ongoing |
